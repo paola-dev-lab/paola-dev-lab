@@ -1,10 +1,10 @@
 <p align="center">
-<pre>
-╔══════════════════════════════════════════════╗
-║                PAOLA DEV LAB                 ║
-╚══════════════════════════════════════════════╝
-        Shell · C · Linux · Git · Logic
-</pre>
+<div style="font-family: monospace; font-size: 16px; line-height: 1.2;">
+╔══════════════════════════════════════════════╗<br>
+║                PAOLA DEV LAB                 ║<br>
+╚══════════════════════════════════════════════╝<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shell · C · Linux · Git · Logic
+</div>
 </p>
 
 # Hello, I'm Paola
@@ -26,6 +26,7 @@ Mon objectif est de construire brique par brique une compréhension profonde des
 ## mon approche
 
 Structure, progression logique, vision d'ensemble, dimension humaine.
+
 
 
 
