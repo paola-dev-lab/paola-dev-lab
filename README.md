@@ -1,3 +1,8 @@
+   ╔══════════════════════════════════════════════╗
+   ║                PAOLA DEV LAB                 ║
+   ╚══════════════════════════════════════════════╝
+          Shell · C · Linux · Git · Logic
+
 # Hello, I'm Paola
 
 Je suis en spécialisation professionnelle dans des environnements techniques et logique système.
@@ -17,3 +22,4 @@ Mon objectif est de construire brique par brique une compréhension profonde des
 ## mon approche
 
 Structure, progression logique, vision d'ensemble, dimension humaine.
+
