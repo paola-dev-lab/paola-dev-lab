@@ -1,7 +1,9 @@
-   ╔══════════════════════════════════════════════╗
-   ║                PAOLA DEV LAB                 ║
-   ╚══════════════════════════════════════════════╝
+```
+╔══════════════════════════════════════════════╗
+║                PAOLA DEV LAB                 ║
+╚══════════════════════════════════════════════╝
           Shell · C · Linux · Git · Logic
+```
 
 # Hello, I'm Paola
 
@@ -22,4 +24,5 @@ Mon objectif est de construire brique par brique une compréhension profonde des
 ## mon approche
 
 Structure, progression logique, vision d'ensemble, dimension humaine.
+
 
