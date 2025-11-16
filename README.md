@@ -26,6 +26,9 @@ Mon objectif est de construire brique par brique une compréhension profonde des
 
 Structure, progression logique, vision d'ensemble, dimension humaine.
 
+<p align="center">
+  <img src="assets/puzzle-banner.png" width="900" alt="Paola Dev Lab Banner">
+</p>
 
 
 
