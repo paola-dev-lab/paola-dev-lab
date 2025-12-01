@@ -1,6 +1,6 @@
 ```
 ╔══════════════════════════════════════════════╗
-║                PAOLA DEV LAB                 ║
+║                Work in progress              ║
 ╚══════════════════════════════════════════════╝
         Shell · C · Linux · Git · Logic
 ```
@@ -29,6 +29,7 @@ Structure, progression logique, vision d'ensemble, dimension humaine.
 <p align="center">
   <img src="assets/puzzle_banner.png" width="900" alt="Paola Dev Lab Banner">
 </p>
+
 
 
 
