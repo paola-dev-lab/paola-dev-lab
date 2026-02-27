@@ -1,8 +1,8 @@
 ```
-                                                       ┌──────────────────────────────────────────────────────┐
-                                                       │    SIRH & Architecture Système | Approche hybride    │
-                                                       └──────────────────────────────────────────────────────┘
-                                                     Analyse fonctionnelle · Logique bas niveau · Structuration projet
+                    ┌──────────────────────────────────────────────────────┐
+                    │    SIRH & Architecture Système | Approche hybride    │
+                    └──────────────────────────────────────────────────────┘
+                  Analyse fonctionnelle · Logique bas niveau · Structuration projet
 ```
 
 # Hello, I'm Paola
@@ -55,6 +55,7 @@ J’aborde la technique comme un projet SIRH :
 
 Construire des systèmes robustes commence par comprendre leurs fondations.
 Je développe cette compréhension brique par brique.
+
 
 
 
