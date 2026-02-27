@@ -1,16 +1,16 @@
 ```
-╔══════════════════════════════════════════════╗
-║                Work in progress              ║
-╚══════════════════════════════════════════════╝
-        Shell · C · Linux · Git · Logic
+   ┌──────────────────────────────────────────────────────┐
+   │    SIRH & Architecture Système | Approche hybride    │
+   └──────────────────────────────────────────────────────┘
+Analyse fonctionnelle · Logique bas niveau · Structuration projet
 ```
-
 
 # Hello, I'm Paola
 
-Consultante SIRH avec une spécialisation progressive vers les environnements techniques et la logique système.
+**Consultante SIRH avec une spécialisation progressive vers les environnements techniques et la logique système.**
 
 Après une immersion intensive en C, Shell et Linux, je développe aujourd’hui une compréhension approfondie du fonctionnement des systèmes et des outils, afin de renforcer ma capacité à piloter des projets SIRH complexes avec une vision à la fois fonctionnelle et technique.
+
 ---
 ## 🎯 Mon positionnement
 
@@ -59,6 +59,7 @@ J’aborde la technique comme un projet SIRH :
 
 Construire des systèmes robustes commence par comprendre leurs fondations.
 Je développe cette compréhension brique par brique.
+
 
 
 
