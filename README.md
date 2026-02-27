@@ -1,8 +1,8 @@
 ```
-   ┌──────────────────────────────────────────────────────┐
-   │    SIRH & Architecture Système | Approche hybride    │
-   └──────────────────────────────────────────────────────┘
-Analyse fonctionnelle · Logique bas niveau · Structuration projet
+                                                       ┌──────────────────────────────────────────────────────┐
+                                                       │    SIRH & Architecture Système | Approche hybride    │
+                                                       └──────────────────────────────────────────────────────┘
+                                                     Analyse fonctionnelle · Logique bas niveau · Structuration projet
 ```
 
 # Hello, I'm Paola
@@ -12,9 +12,7 @@ Analyse fonctionnelle · Logique bas niveau · Structuration projet
 Après une immersion intensive en C, Shell et Linux, je développe aujourd’hui une compréhension approfondie du fonctionnement des systèmes et des outils, afin de renforcer ma capacité à piloter des projets SIRH complexes avec une vision à la fois fonctionnelle et technique.
 
 ---
-## 🎯 Mon positionnement
-
-Je construis un profil hybride à l’intersection de :
+## 🎯 Je construis un profil hybride à l’intersection de :
 
 - Expertise fonctionnelle RH / SIRH
 - Analyse des processus et cadrage projet
@@ -36,14 +34,12 @@ Mon objectif : être capable de dialoguer aussi bien avec les équipes métier q
 ---
 ## 🧩 mon approche
 
-Structure. Progression logique. Vision d’ensemble. Dimension humaine.
-
 J’aborde la technique comme un projet SIRH :
 - analyse
 - architecture
 - itération
 - documentation
-- amélioration continue****
+- amélioration continue
 
 <p align="center">
   <img src="assets/puzzle_banner.png" width="900" alt="Paola Dev Lab Banner">
@@ -59,6 +55,7 @@ J’aborde la technique comme un projet SIRH :
 
 Construire des systèmes robustes commence par comprendre leurs fondations.
 Je développe cette compréhension brique par brique.
+
 
 
 
