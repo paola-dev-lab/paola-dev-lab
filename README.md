@@ -7,16 +7,16 @@
 
 # Hello, I'm Paola
 
-**Consultante SIRH avec une spécialisation progressive vers les environnements techniques et la logique système.**
+**Professionnelle RH spécialisée en SIRH, développant une compréhension technique des systèmes afin de renforcer l’analyse fonctionnelle et le pilotage des projets SIRH.**
 
-Après une immersion intensive en C, Shell et Linux, je développe aujourd’hui une compréhension approfondie du fonctionnement des systèmes et des outils, afin de renforcer ma capacité à piloter des projets SIRH complexes avec une vision à la fois fonctionnelle et technique.
+À travers des projets en C, Shell et Linux, je développe une compréhension du fonctionnement des systèmes et des outils techniques, afin de mieux analyser les besoins métiers et accompagner les projets SIRH.
 
 ---
 ## 🎯 Je construis un profil hybride à l’intersection de :
 
 - Expertise fonctionnelle RH / SIRH
 - Analyse des processus et cadrage projet
-- Compréhension technique des systèmes (C, Shell, logique bas niveau)
+- Compréhension technique des systèmes (C, Shell, linux)
 - Structuration et documentation rigoureuse
 
 Mon objectif : être capable de dialoguer aussi bien avec les équipes métier qu’avec les équipes techniques, en comprenant les enjeux des deux mondes.
@@ -55,6 +55,7 @@ J’aborde la technique comme un projet SIRH :
 
 *Construire des systèmes robustes commence par comprendre leurs fondations.*
 *Je développe cette compréhension brique par brique.*
+
 
 
 
