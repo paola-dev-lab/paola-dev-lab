@@ -45,6 +45,7 @@ Je travaille notamment sur :
 - la traduction d’un besoin métier en logique de requête
 
 Cette approche me permet de relier davantage **processus RH, outils SIRH et données**.
+
 ---
 ## 🧩 mon approche
 
