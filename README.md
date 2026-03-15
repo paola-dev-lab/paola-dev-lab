@@ -44,8 +44,6 @@ Je travaille notamment sur :
 - la lecture de données RH (effectifs, absences, répartitions)
 - la traduction d’un besoin métier en logique de requête
 
-Cette approche me permet de relier davantage **processus RH, outils SIRH et données**.
-
 ---
 ## 🧩 mon approche
 
@@ -55,6 +53,9 @@ J’aborde la technique comme un projet SIRH :
 - itération
 - documentation
 - amélioration continue
+
+Cette approche me permet de relier davantage **processus RH, outils SIRH et données**.
+  
 
 <p align="center">
   <img src="assets/puzzle_banner.png" width="900" alt="Paola Dev Lab Banner">
